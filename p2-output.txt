@@ -1,0 +1,70 @@
+Initial Player 1:2d,2h,as,th,7h,td,6d,8c,6h
+Initial Player 2:7s,3h,4s,ah,9d,5h,kd,ts,7c
+Player 1
+Added: 2s
+Discarded: 2d 2h 2s Discarded: as
+Hand now: [6d, 6h, 7h, 8c, th, td]
+Player 2
+Added: as
+Discarded: 7s
+Hand now: [ah, as, 3h, 4s, 5h, 7c, 9d, ts, kd]
+Player 1
+Added: 7s
+Discarded: 8c
+Hand now: [6d, 6h, 7h, 7s, th, td]
+Player 2
+Added: 8c
+Discarded: 3h
+Hand now: [ah, as, 4s, 5h, 7c, 8c, 9d, ts, kd]
+Player 1
+Added: 5c
+Discarded: 5c
+Hand now: [6d, 6h, 7h, 7s, th, td]
+Player 2
+Added: ad
+Discarded: ad
+Hand now: [ah, as, 4s, 5h, 7c, 8c, 9d, ts, kd]
+Player 1
+Added: 8h
+Discarded: 8h
+Hand now: [6d, 6h, 7h, 7s, th, td]
+Player 2
+Added: 3d
+Discarded: 8c
+Hand now: [ah, as, 3d, 4s, 5h, 7c, 9d, ts, kd]
+Player 1
+Added: 5d
+Discarded: 5d
+Hand now: [6d, 6h, 7h, 7s, th, td]
+Player 2
+Added: kh
+Discarded: 3d
+Hand now: [ah, as, 4s, 5h, 7c, 9d, ts, kd, kh]
+Player 1
+Added: qc
+Discarded: qc
+Hand now: [6d, 6h, 7h, 7s, th, td]
+Player 2
+Added: 9h
+Discarded: 4s
+Hand now: [ah, as, 5h, 7c, 9d, 9h, ts, kd, kh]
+Player 1
+Added: 7d
+Discarded: 7h 7s 7d Discarded: 6d
+Hand now: [6h, th, td]
+Player 2
+Added: 4c
+Discarded: ts
+Hand now: [ah, as, 4c, 5h, 7c, 9d, 9h, kd, kh]
+Player 1
+Added: ts
+Discarded: th td ts Discarded: 6h
+Hand now: []
+Player 2
+Added: ks
+Discarded: 4c
+Hand now: [ah, as, 5h, 7c, 9d, 9h, kd, kh, ks]
+Player 1
+Game over state
+Points: 0 to 62
+Player 1 Wins!
